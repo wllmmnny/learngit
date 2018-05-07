@@ -1,1 +1,2 @@
-ancdo.
+
+print('Aldo, hello world!')
